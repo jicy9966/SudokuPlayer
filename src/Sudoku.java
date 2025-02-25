@@ -10,8 +10,8 @@ public class Sudoku
         switch (difficulty)
         {
             case "easy":
-                remove_numbers(5); // for testing purposes
-                //remove_numbers(20);
+                //remove_numbers(5); // for testing purposes
+                remove_numbers(20);
                 break;
             case "hard":
                 remove_numbers(50);
