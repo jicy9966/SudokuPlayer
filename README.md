@@ -7,3 +7,5 @@ Open the command prompt at the directory of this folder.
 Run the following command line to run the game: 
 
 java -jar SudokuPlayer.jar
+
+[Download JAR file](https://github.com/jicy9966/SudokuPlayer/blob/main/SudokuPlayer.jar)
